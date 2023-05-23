@@ -1,0 +1,12 @@
+name: django-upload-files
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - pip
+  - poetry
+  - python 3.11.*
+  - Django
+  - botstrap
+  - django-bootstrap-v5
+  
